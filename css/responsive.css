@@ -1,0 +1,40 @@
+@media only screen and (max-width:767px){
+    .service .service-text {
+        margin-bottom:20px;
+        text-align:center;
+    }
+     
+    .what-do .do-img{      /*For about page*/
+        margin-top:20px;
+    }
+     
+     .gallery img{
+         margin-bottom:30px;
+     }
+	 
+	.pricing  .card{
+		width:75%;
+		margin:20px auto;
+	}
+	 
+	 
+	 .blog-content .card{
+		 width:75%;
+		margin:20px auto;
+	 }
+	 
+	 .contact-content .contact-left{
+		 margin-bottom:30px;
+	 }
+	 
+}
+@media only screen and (max-width:575px){
+	.newsletter h2{
+		font-size:20px;
+	}
+	
+	.newsletter input{
+		margin-bottom:10px;
+	}
+	
+}
